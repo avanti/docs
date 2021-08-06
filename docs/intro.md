@@ -42,12 +42,6 @@ sidebar_position: X
   O **X** deve ser trocado pelo número da posição da doc na sidebar.
 :::
 
-E no final, adicione as suas informações:
-
-```md
-
-```
-
 ## Criando uma nova branch
 
 Antes de fazer o **Pull Request**, lembre-se de mudar para uma nova branch e seguir do padrão de nomenclatura `new-doc/` seguido do nome da sua doc `new-doc/minha-doc`.
